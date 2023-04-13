@@ -14,32 +14,32 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "" # integer value, dont use ""
-    API_HASH = ""
-    TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = "1952625698" # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "I_LOVE_YOU_MY_HEARTBEET"
-    SUPPORT_CHAT = "INCRICIBLE"  # Your own group for support, do not add the @
+    API_ID = "25018506" # integer value, dont use ""
+    API_HASH = "5a6e89f9369c6f22abf80a99df29eaf5"
+    TOKEN = "5902015405:AAG64NbJHijbaRlBPHSXF2WqHY1wimppl_8"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = "5656982887" # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "HARSHIT_OP69"
+    SUPPORT_CHAT = "NXTSUPPORT69"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-       -1001770300514 
+       -1001819927488
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001770300514
+        -1001819927488
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= ""
+    MONGO_DB_URI= "mongodb+srv://Spambot69:<password>@cluster0.r06ipmt.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = ""  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgres://zyreftbw:ra_rTkKLov3qU9oy7K3d4HQKjirOENlT@kandula.db.elephantsql.com/zyreftbw"  # needed for any database modules
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
     INFOPIC = True
     URL = None
     SPAMWATCH_API = "09i2gqhAMVMR1E1HM2jX81FOjj_RJSuplJmdwb5ABK8OULB8qD6JUv5Mz8umicpg"  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
+    SPAMWATCH_SUPPORT_CHAT = "@NXTSUPPORT69"
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = get_user_list("elevated_users.json", "5288547197")
+    DRAGONS = get_user_list("elevated_users.json", "6201133044")
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
     DEV_USERS = get_user_list("elevated_users.json", "5288547197")
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
