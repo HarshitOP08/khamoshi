@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/CuteBaccha/khamoshi",
+   "repository":"https://github.com/CuteBaccha/khamoshi",
    "stack": "heroku-22",
    "addons": [
       {
