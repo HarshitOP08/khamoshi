@@ -76,7 +76,7 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*ʜᴇʏ* {} , [🥀](https://graph.org/file/7053b2ff49a93cb0854cb.jpg)
+*ʜᴇʏ* {} , [🥀](https://te.legra.ph/file/8216523079e37c4826bab.jpg)
 *๏ ᴛʜɪs ɪs* {} !
 ➻ 𝙵𝚄𝙻𝙻𝚈 𝙷𝙰𝚁𝙳 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 𝙲𝙰𝙽𝚃𝚁𝙾𝙻 📎 𝙵𝚄𝙻𝙻𝚈 𝚂𝙼𝙾𝙾𝚃𝙷 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 🖇️ 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙾𝙼𝙴 𝚄𝚂𝙴𝙵𝚄𝙻𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 .
 ──────────────────
@@ -86,7 +86,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🎈𝔸𝕕𝕕 𝕞𝕖 𝕚𝕟 𝕠𝕦𝕣 ℂ𝕙𝕒𝕥🎈",
+            text="👅ᴀᴅᴅ ᴋʀᴏ ᴊᴀᴀɴ👅",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -94,22 +94,22 @@ buttons = [
         InlineKeyboardButton(text="⚡𝐒𝐔𝐏𝐄𝐑 𝐂𝐎𝐌𝐌𝐎𝐍𝐃𝐒⚡", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚜️𝐀𝐛𝐨𝐮𝐭⚜️", callback_data="mukesh_"),
+        InlineKeyboardButton(text="⚜️𝐀𝐛𝐨𝐮𝐭⚜️", callback_data="ansh_"),
         InlineKeyboardButton(text="🔸𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩🔸", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="𓆩𝐑𝚶𝐘꯭𝚫𝐋₱Ɽł₦₵E𓆪", url=f"tg://user?id={5288547197}"),
+        InlineKeyboardButton(text="𝐊ʜᴀᴍᴏsʜɪɪ", url=f"tg://user?id={1952625698}"),
         InlineKeyboardButton(text="🔹𝐌𝐮𝐬𝐢𝐜🔹", callback_data="Music_"),
     ],
 ]
 
 HELP_STRINGS = f"""
-» {BOT_NAME} [♥️](https://graph.org/file/7053b2ff49a93cb0854cb.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ"""
+» {BOT_NAME} [♥️](https://te.legra.ph/file/eb1dca102d5bc31aa2055.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ"""
 
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𓆩𝐑𝚶𝐘꯭𝚫𝐋₱Ɽł₦₵E𓆪](f"tg://user?id={OWNER_ID}") ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [🔸𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩🔸](f"https://t.me/{SUPPORT_CHAT}") ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𝐊ʜᴀᴍᴏsʜɪɪ](f"tg://user?id={OWNER_ID}") ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [🔸𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩🔸](f"https://t.me/{SUPPORT_CHAT}") ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -122,7 +122,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("MukeshRobot.modules." + module_name)
+    imported_module = importlib.import_module("kamoshiRobot.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -404,7 +404,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="☄️sᴏᴜʀᴄᴇ☄️",
-                            url="https://t.me/aBoUtPrInCeXd",
+                            url=https://t.me/ISHQ00_I"",
                         ),
                     ],
                     [
@@ -881,7 +881,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://te.legra.ph/file/fe5095ac5e231c75596bf.mp4",
+                animation="https://telegra.ph/file/c429d2fde5c71559ea16a.jpg",
                 caption=f"""
 ✨ㅤ{dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ...
 
@@ -892,7 +892,7 @@ def main():
 ㅤ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 
 ─╼⃝𖠁-----------------𖠁⃝╾─•
-ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [𓆩𓆩𝐑𝚶𝐘꯭𝚫𝐋₱Ɽł₦₵E𓆪]("http://t.me/your_godfather_xd")""",
+ᴍᴀᴅᴇ ᴡɪᴛʜ ❤  ʙʏ [𝐊ʜᴀᴍᴏsʜɪɪ]("http://t.me/I_LOVE_YOU_MY_HEARTBEET")""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
