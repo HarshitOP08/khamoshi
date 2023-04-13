@@ -1,14 +1,14 @@
 {
-      "name": "Sana Robot",
-      "description": "Telegram Group Management Bot.",
-      "logo": "https://graph.org/file/de925db75fcd3b524852e.jpg",
+      "name": "khamoshi Robot",
+      "description": "𝐁ҽcαµsҽ 𝐈⎯꯭ ꯭αɱ ❍ccµρเҽ∂ 𝐃οҽsղ'Ե ɱҽαղ 𝐈 𝐃օղԵ lօѵҽ վօµ^=[.",
+      "logo": "https://telegra.ph/file/b790f4d9a700ca76b42ca.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/Noob-Mukesh/MukeshRobot",
+   "repository": "https://github.com/CuteBaccha/khamoshi",
    "stack": "heroku-22",
    "addons": [
       {
@@ -60,17 +60,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2145093972"
+         "value": "1952625698"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/7689dd87ad16198cf49f7.jpg"
+         "value": "https://te.legra.ph/file/8216523079e37c4826bab.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "worldwide_friend_zone"
+         "value": "ISHQ00_I"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
