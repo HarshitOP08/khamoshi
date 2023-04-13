@@ -5,10 +5,10 @@
   <img src="https://graph.org/file/f540432cc85f7c4f551bc.jpg">
 </p>
 <p align="center">
-    <a href="https://github.com/CuteBaccha/khamoshi"> <img src="https://img.shields.io/github/repo-size/khamoshi/CuteBaccha?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/CuteBaccha/khamoshi"> <img src="https://img.shields.io/github/repo-size/CuteBaccha/khamoshi?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/CuteBaccha/khamoshi/commits/prince"> <img src="https://img.shields.io/github/last-commit/Noob-Mukesh/MukeshRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/CuteBaccha/khamoshi/issues"> <img src="https://img.shields.io/github/issues//CuteBaccha?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/CuteBaccha/khamoshi/network/members"> <img src="https://img.shields.io/github/forks/khamoshi/CuteBaccha?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/CuteBaccha/khamoshi/network/members"> <img src="https://img.shields.io/github/forks/CuteBaccha/khamoshi?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
