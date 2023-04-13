@@ -1,4 +1,4 @@
-i<p align="center">
+𝗜.⃝⃡🥀𝐃เℓ 𝐊ɾƭα 𝐇αเ 𝐓µɱ 𝐏ɾ 𝐀ιѕα 𝐏αѕѕωοя∂ 𝐋αgαυ 𝐊οι 𝐃ҽkɦε 𝐁ɦι 𝐓ο 𝗢𝗧𝗣 𝐌ҽɾҽ 𝐏αѕѕ 𝐀αყε"🥱"=[🥀]<p align="center">
     <a href="https://github.com/khamoshi/CuteBaccha/stargazers"><img src="https://img.shields.io/github/stars/khamoshi/CuteBaccha?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
